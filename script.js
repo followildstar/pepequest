@@ -62,7 +62,7 @@ document
    QUEST 02 정답
 -------------------------------- */
 
-const CORRECT_ANSWER = "PEPE";
+const CORRECT_ANSWER = "354-B";
 
 const wrongMessages = [
   "음... 다시 한번.",
@@ -156,7 +156,7 @@ if (answerInput) {
    QUEST 03 최종 인증번호
 -------------------------------- */
 
-const FINAL_CODE = "1234";
+const FINAL_CODE = "0503";
 
 const finalCodeMessages = [
   "음... 번호가 다른 것 같은데?",
