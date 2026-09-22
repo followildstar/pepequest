@@ -14,7 +14,7 @@
   --point:#2088b9;
   --point-text:#fff;
   --primary-text: #ffffff;
-  --accent: #eef0e8;
+  --accent: #fff4c4;
   --danger: #c95d5d;
 }
 
@@ -143,7 +143,7 @@ p {
 
   border-radius: 8px;
 
-  background: #ecefe3;
+  background: #edffb8;
 }
 
 .difficulty {
@@ -279,7 +279,7 @@ position: relative;
     border-radius: 15px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(img02.jpg);
+    background-image: url(map.jpeg);
 }
 
 .map-pin {
@@ -479,3 +479,10 @@ position: relative;
   width: 150px;
   margin-top: 30px;
 }
+
+
+.img06{
+  width: 150px;
+  margin-bottom: 30px;
+}
+
